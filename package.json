@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "1-task-tests": "xv task-1/tests/closure.test.js",
-    "2-task-tests": "xv task-2/tests/lock-public-test.test.js",
+    "2-task-tests": "xv task-2/tests/lock-public-test.js",
     "all-tests": "xv ."
   },
   "devDependencies": {
